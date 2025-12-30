@@ -1,2 +1,3 @@
 # git-tag-lab
-Fixed typos in r
+Fixed typos in readme
+Added a new feature - login
